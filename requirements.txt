@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn[standard]
+langchain_community
+langchain_perplexity
+langchain-chroma
+langchain_core 
+langchain_text-splitters
+langchain_huggingface
+sentence-transformers
+
+#only if you are using local llm
+langchain_ollama
